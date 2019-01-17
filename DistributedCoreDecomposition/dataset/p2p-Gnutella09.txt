@@ -1,3 +1,8 @@
+# Directed graph (each unordered pair of nodes is saved once): p2p-Gnutella09.txt 
+# Directed Gnutella P2P network from August 9 2002
+# MinIndex:0	MaxIndex:8113
+# Nodes: 8114 Edges: 26013
+# FromNodeId	ToNodeId
 0	1
 0	2
 0	3
